@@ -2,7 +2,7 @@
 include 'same/header.php';
 include 'config.php';
 ?>
-<a href="index.php" class="btn btn-secondary mb-3"><i class="fas fa-undo-alt"></i> Quay lại</a>
+
 <main class= "container mt-5 ">
     <h2 class="mb-3 text-center">Thêm thông tin </h2>
     
