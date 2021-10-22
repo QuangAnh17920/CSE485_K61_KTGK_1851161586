@@ -63,7 +63,7 @@
         <div class="mb-3 row">
             <label for="exam_code" class="col-sm-2 col-form-label">Mã truy cập bài thi </label>
             <div class="col-sm-5">
-                <input type="exam_code" value="<?php echo $row_current['status'] ?>" class="form-control" name="exam_code">
+                <input type="exam_code" value="<?php echo $row_current['exam_code'] ?>" class="form-control" name="exam_code">
             </div>
         </div>
        
