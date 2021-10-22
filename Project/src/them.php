@@ -6,7 +6,7 @@ include 'config.php';
 <main class= "container mt-5 ">
     <h2 class="mb-3 text-center">Thêm thông tin </h2>
     
-    <form action="process_them.php" method="post">
+    <form action="ttthem.php" method="post">
         
     <div class="mb-3 row">
             <label for="id" class="col-sm-2 col-form-label">Mã bài thi </label>

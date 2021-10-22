@@ -10,7 +10,7 @@
 <main class= "container mt-5 ">
     <h2 class="mb-2 text-center">Chỉnh sửa thông tin</h2>
     
-    <form action="process_sua.php?id=<?php echo $_GET['id']?>" method="post">
+    <form action="ttsua.php?id=<?php echo $_GET['id']?>" method="post">
         <div class="mb-3 form-group row">
             <label for="id" class="col-sm-2 col-form-label">Mã bài thi </label>
             <div class="col-sm-5">
