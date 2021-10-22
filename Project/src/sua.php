@@ -6,7 +6,7 @@
     $result_current = mysqli_query($conn, $sql);
     $row_current = mysqli_fetch_assoc($result_current);
 ?>
-<a href="index.php" class="btn btn-secondary mb-3"><i class="fas fa-undo-alt"></i> Quay lại</a>
+
 <main class= "container mt-5 ">
     <h2 class="mb-2 text-center">Chỉnh sửa thông tin</h2>
     
