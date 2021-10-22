@@ -8,7 +8,12 @@ include 'config.php';
     
     <form action="process_them.php" method="post">
         
-    
+    <div class="mb-3 row">
+            <label for="id" class="col-sm-2 col-form-label">Mã bài thi </label>
+            <div class="col-sm-5">
+                <input type="text" class="form-control"  name="id">
+            </div>
+        </div>
         <div class="mb-3 row">
             <label for="exam_title" class="col-sm-2 col-form-label">Tên bài thi </label>
             <div class="col-sm-5">
